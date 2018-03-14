@@ -70,7 +70,6 @@ if __name__ == '__main__':
 #move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'The name the team gives to itself' # Only 10 chars displayed.
 team_name = '1.5 Asian Nerd White Privilege' # Only 10 chars displayed.
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
